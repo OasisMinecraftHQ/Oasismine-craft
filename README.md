@@ -1,6 +1,6 @@
 # Oasis Minecraft - AI-Generated Minecraft Experience
 
-![Oasis Minecraft](https://oasisminecraft.net/images/favicon.ico)
+
 
 ## Project Overview
 
