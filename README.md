@@ -6,7 +6,8 @@
 
 Oasis Minecraft is a groundbreaking project that uses neural networks to simulate the Minecraft gaming experience. This is not traditional Minecraft, but rather a fully AI-driven Minecraft-like experience where every frame is generated in real-time.
 
-🌐 **Official Website**: [oasisminecraft.net](https://oasisminecraft.net/)
+🌐 Related Website: oasisminecraft.net
+(Note: This is a related website for the project, not an official website)
 
 ## Key Features
 
