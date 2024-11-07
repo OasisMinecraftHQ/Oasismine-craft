@@ -104,7 +104,7 @@ While Oasis Minecraft cannot replace the traditional Minecraft experience, it sh
 
 ## Getting Started
 
-1. Visit [oasisminecraft.net](https://oasisminecraft.net/)
+1. Play at -> [oasisminecraft.net](https://oasisminecraft.net/)
 2. Select your preferred environment
 3. Wait for your turn if there's a queue
 4. Explore and interact with the AI-generated world
